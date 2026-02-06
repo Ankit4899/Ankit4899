@@ -120,7 +120,7 @@
 
 ---
 
-## 📈 GitHub Activity (WORKS 100%)
+## 📈 GitHub Activity
 
 ![Ankit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankit4899&theme=github-dark)
 
