@@ -84,9 +84,7 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE Student  
 - 💻 Full Stack Developer (MERN Stack)  
-- 🏢 Internship Experience – **IOCL (MERN Application)**  
 - 🧠 Strong in **DSA & Problem Solving**  
 - 🌱 Learning **Next.js & System Design**
 
