@@ -92,15 +92,15 @@
 👉 **ankitrajbarhiya51@gmail.com**
 
 ---
+📫 **Portfolio:**  
+👉 **https://ankitraj-portfolio.vercel.app/**
 
+---
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/ankit-raj4899" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-  </a>
-  <a href="https://ankitraj-portfolio.vercel.app/" target="_blank">
-    <img src="https://www.freepik.com/free-photo/digital-camera-cellphone-stationery-yellow-background_2914450.htm#fromView=keyword&page=2&position=22&uuid=7a5c4d34-da50-4263-9b8a-3f69351d0266&query=Portfolio+banner" width="40"/>
   </a>
 </p>
 
