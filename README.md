@@ -99,10 +99,8 @@
   <a href="https://linkedin.com/in/ankit-raj4899" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
   </a>
-</p>
-<p align="center">
   <a href="https://ankitraj-portfolio.vercel.app/" target="_blank">
-    <img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000000efc7206bc10fbbc226d40a1&ts=491865&p=fs&cid=1&sig=84ec2e3837d52646bd3288cfb6e915ce292b8f14b50fafc6ee37cb41037de737&v=0" width="40"/>
+    <img src="https://www.freepik.com/free-photo/digital-camera-cellphone-stationery-yellow-background_2914450.htm#fromView=keyword&page=2&position=22&uuid=7a5c4d34-da50-4263-9b8a-3f69351d0266&query=Portfolio+banner" width="40"/>
   </a>
 </p>
 
